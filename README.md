@@ -16,12 +16,13 @@
 --- 
 
 **2️⃣ JAM Stack:** JS + API + MD 
-|-----------------------------------------------------------------------------------|
-| JAM Stack develop architecture that I work mostly for custom deploys projects. |
-| ![](https://img.icons8.com/color/48/000000/javascript.png) **JavaScript:** Used for frontend interactivity. |
-| ![](https://img.icons8.com/color/48/000000/api-settings.png) **APIs:** Services or microservices with data requests. |
-| ![](https://img.icons8.com/color/48/000000/markdown.png) **MarkDown:** Static markup that is pre-built at build time. |
-| _Hosting and deploy in cloud base services such as Vercel, Netlify and GitHub Pages._ |
+|---------------------------------------------------------------------------------------------------------------|
+| JAM Stack is a modern web development architecture that I mainly use for custom deploy projects, focusing on speed, scalability, and security. |
+| ![](https://img.icons8.com/color/48/000000/javascript.png) **JavaScript:** The backbone of frontend interactivity, enabling dynamic UI and reactive features. |
+| ![](https://img.icons8.com/color/48/000000/api-settings.png) **APIs:** Decoupled services or microservices that handle server-side operations, data requests, and integrations with external platforms. |
+| ![](https://img.icons8.com/color/48/000000/markdown.png) **MarkDown:** Static content written in Markdown that is transformed into fast-loading pages at build time. |
+| _Hosting and deployment are usually handled on cloud-based platforms such as Vercel, Netlify, and GitHub Pages, ensuring seamless CI/CD workflows and edge delivery performance._ |
+
 
 --- 
 
@@ -38,108 +39,108 @@
 ### ⚙️ Style language
 | Language      | Description                                                        |
 |---------------|--------------------------------------------------------------------|
-| ![](https://img.icons8.com/color/48/000000/css3.png) CSS       | Capability in CSS for styling and layout design.     |
-| _Becomes responsive, good looking and functional._ |
+| ![](https://img.icons8.com/color/48/000000/css3.png) CSS       | Strong capability in CSS for responsive styling, layout design, and cross-device adaptability. |
+| _Becomes responsive, visually appealing, and fully functional._ |
 
 --- 
 
 ### ⚙️ Markup languages
 | Language      | Description                                                        |
 |---------------|--------------------------------------------------------------------|
-| ![](https://img.icons8.com/color/48/000000/markdown.png) MD   | Advance capability for build documents and blogging. |
-| ![](https://i.imgur.com/DRBrLiP.png) BBCode | Let put publications with great style in forums and more. |
-| _Important Plus and core to structuring the remarking_ |
+| ![](https://img.icons8.com/color/48/000000/markdown.png) MD   | Advanced ability to build well-structured documents, technical notes, and blogging content. |
+| ![](https://i.imgur.com/DRBrLiP.png) BBCode | Enables styled publications across forums and digital platforms with consistent formatting. |
+| _Important plus and core to structuring and remarking._ |
 
 ---
 
 ### ⚙️ Backend environment development tools and modern deployment
 | Tool                                                                 | Description                                        |
 |----------------------------------------------------------------------|----------------------------------------------------|
-| ![](https://img.icons8.com/color/48/000000/git.png) **Git**          | Distributed version control system for tracking changes. |
-| ![](https://img.icons8.com/color/48/000000/github.png) **GitHub**    | Repository hosting, collaboration, and code management. |
-| ![](https://img.icons8.com/color/48/000000/vercel.png) **Vercel**    | Cloud platform for deploying frontend and backend apps. |
-| ![](https://img.icons8.com/color/48/000000/cloud.png) **Netlify**    | Cloud hosting for static sites and serverless functions. |
-| ![](https://img.icons8.com/color/48/000000/github.png) **GitHub Pages** | Free hosting service for static websites directly from repositories. |
-| _Proficient in building and deploying apps, websites, APIs, and related utilities._ | 
+| ![](https://img.icons8.com/color/48/000000/git.png) **Git**          | Distributed version control system for efficient tracking and branching of code changes. |
+| ![](https://img.icons8.com/color/48/000000/github.png) **GitHub**    | Cloud repository hosting for collaboration, pull requests, and project management. |
+| ![](https://img.icons8.com/color/48/000000/vercel.png) **Vercel**    | Modern cloud platform for seamless frontend and backend deployment. |
+| ![](https://img.icons8.com/color/48/000000/cloud.png) **Netlify**    | Hosting solution for static sites, serverless functions, and CI/CD workflows. |
+| ![](https://img.icons8.com/color/48/000000/github.png) **GitHub Pages** | Free hosting for static websites directly from GitHub repositories. |
+| _Proficient in building, deploying, and maintaining apps, websites, APIs, and related utilities._ | 
 
 ---
 
 ### ⚙️ JS + PY + PHP language frontend frameworks
 | Framework                        | Description                                            |
 |----------------------------------|--------------------------------------------------------|
-| ![](https://img.icons8.com/color/48/000000/vite.png) Vite        | Proficient in using Vite for frontend development. |
-| ![](https://img.icons8.com/color/48/000000/gatsbyjs.png) Gatsby      | Competent in building fast websites with Gatsby. |
-| ![](https://i.imgur.com/JYDIBlq.png) Astro                  | Proficient with Astro for efficient web devs with Astro. |
-| ![](https://i.imgur.com/44EVa6K.png) Hugo                    | Skilled in building static websites with Hugo and Go. |
-| ![](https://img.icons8.com/color/48/000000/flask.png) Flask  | Flask developer crafting Python web apps as a learner. |
-| ![](https://img.icons8.com/color/48/000000/laravel.png) Laravel | Strong grasp of Laravel for building robust PHP web applications and APIs. |
-| _To build fastly new projects with robust setting with modern web design._ |
+| ![](https://img.icons8.com/color/48/000000/vite.png) Vite        | Proficient in using Vite for fast frontend development and modern bundling. |
+| ![](https://img.icons8.com/color/48/000000/gatsbyjs.png) Gatsby      | Competent in building optimized websites with Gatsby and React. |
+| ![](https://i.imgur.com/JYDIBlq.png) Astro                  | Skilled with Astro for efficient, component-driven, content-heavy websites. |
+| ![](https://i.imgur.com/44EVa6K.png) Hugo                    | Capable in creating lightweight static websites with Hugo and Go templates. |
+| ![](https://img.icons8.com/color/48/000000/flask.png) Flask  | Learning-oriented experience with Flask for Python-based web apps. |
+| ![](https://img.icons8.com/color/48/000000/laravel.png) Laravel | Strong grasp of Laravel for building scalable PHP applications and REST APIs. |
+| _To build new projects quickly with robust settings and modern web design practices._ |
 
 --- 
 
 ### ⚙️ CSS frameworks
 | CSS framework                       | Description                                            |
 |--------------------------------------------|-------------------------------------------------------|
-| ![](https://img.icons8.com/color/48/000000/bootstrap.png) Bootstrap | Skillful in utilizing Bootstrap for web design.   |
-| ![](https://img.icons8.com/color/48/000000/tailwindcss.png) Tailwind CSS   | Familiar use of Tailwind CSS framework.  |
-| _To Build New Nice Projects Fastly and Robust With Modern Web Design._ |
+| ![](https://img.icons8.com/color/48/000000/bootstrap.png) Bootstrap | Skilled in utilizing Bootstrap for responsive and mobile-first design. |
+| ![](https://img.icons8.com/color/48/000000/tailwindcss.png) Tailwind CSS   | Familiar with Tailwind CSS for utility-first and scalable styling. |
+| _To build new projects faster and more robust with modern design systems._ |
 
 --- 
 
 ### ⚙️ JavaScript libraries
 | JavaScript Library                   | Description                                            |
 |--------------------------------------------|-------------------------------------------------------|
-| ![](https://img.icons8.com/color/48/000000/react-native.png) ReactJS | Proficient in using ReactJS building interfaces. |
-| ![](https://img.icons8.com/ios/50/000000/confetti.png) canvas-confetti | Perfect for creating confetti animations. |
-| ![](https://img.icons8.com/color/48/000000/css3.png) Styled Components | Skill use of styled-components for inline CSS. |
-| ![](https://img.icons8.com/color/48/000000/redux.png) Redux |  Skilled in using Redux for state management in JS apps. |
-| ![](https://img.icons8.com/color/48/000000/javascript.png) esLint | Proficient in setting up ESLint for code linting. |
-| ![](https://img.icons8.com/color/48/000000/helmet.png) Helmet | To put any significant tracking code on HTMl heads. |
-| _To Enhance Display and Functionality in JS Projects._ |
+| ![](https://img.icons8.com/color/48/000000/react-native.png) ReactJS | Proficient in ReactJS for building dynamic and reusable user interfaces. |
+| ![](https://img.icons8.com/ios/50/000000/confetti.png) canvas-confetti | Experience adding playful and interactive confetti animations. |
+| ![](https://img.icons8.com/color/48/000000/css3.png) Styled Components | Skilled in styled-components for inline and scoped CSS in React apps. |
+| ![](https://img.icons8.com/color/48/000000/redux.png) Redux | Competent in Redux for predictable state management across applications. |
+| ![](https://img.icons8.com/color/48/000000/javascript.png) esLint | Proficient in setting up ESLint for cleaner and more consistent codebases. |
+| ![](https://img.icons8.com/color/48/000000/helmet.png) Helmet | Knowledgeable in Helmet for managing metadata and tracking codes in HTML heads. |
+| _To enhance display, usability, and functionality in JavaScript projects._ |
 
 ---
 
 ### ⚙️ Administrative and productivity kit tool
 | Tool      | Description                                                          |
 |-----------|----------------------------------------------------------------------|
-| ![](https://img.icons8.com/color/48/000000/chatgpt.png) Chat GPT  | Prompt engineering for build code, pieces, ideas.  |
-| ![](https://img.icons8.com/color/48/000000/notion.png) Notion  | For task management, documentation, and collabs. |
-| ![](https://img.icons8.com/color/48/000000/figma.png) Figma  | Design network platform mixing design, graphic and web. |
-| ![](https://img.icons8.com/color/48/000000/trello.png) Trello | Card-based project management that simplifies notes. |
-| ![](https://img.icons8.com/color/48/000000/control-panel.png) cPanel | CMS admin panels in all versions including Hostinger hPage. |
-| _Set Tools To Push Develop, Administrate, Create, Documentate, Collaborate and more._ |
+| ![](https://img.icons8.com/color/48/000000/chatgpt.png) Chat GPT  | Skilled in prompt engineering to generate code, ideas, and documentation. |
+| ![](https://img.icons8.com/color/48/000000/notion.png) Notion  | Proficient in Notion for task management, knowledge bases, and collaboration. |
+| ![](https://img.icons8.com/color/48/000000/figma.png) Figma  | Effective in Figma for collaborative interface, graphic, and web design. |
+| ![](https://img.icons8.com/color/48/000000/trello.png) Trello | Capable in Trello for organizing workflows with boards and cards. |
+| ![](https://img.icons8.com/color/48/000000/control-panel.png) cPanel | Experienced with cPanel and hPanel for CMS administration and hosting management. |
+| _Set of tools to support development, administration, documentation, and collaboration._ |
 
 ---
 
 ### ⚙️ Google Workspace
 | Google -aaS                     | Description                                            |
-|--------------------------------------------|-------------------------------------------------------|
-| ![](https://img.icons8.com/color/48/000000/google-drive.png) Drive | Integrates for storage and collabs management. |
-| ![](https://img.icons8.com/color/48/000000/gmail.png) Gmail | Leveraging efficient email comms and streamlined.  |
-| ![](https://img.icons8.com/color/48/000000/analytics.png) Analytics | Utilizing for in-depth web and app analysis.   |
-| ![](https://img.icons8.com/color/48/000000/console.png) Search Console  | To track and enhance web presence and SEO.    |
-| ![](https://img.icons8.com/color/48/000000/google-meet.png) Meet | Easyling remote meeting to good workflow and comms. |
-| _Google Universe of Services to Empower Compatible Projects with This Technologies._ |
+|---------------------------------|--------------------------------------------------------|
+| ![](https://img.icons8.com/color/48/000000/google-drive.png) Drive | Reliable storage solution with collaboration and sharing features. |
+| ![](https://img.icons8.com/color/48/000000/gmail.png) Gmail | Efficient email communication with integrations across Google services. |
+| ![](https://img.icons8.com/color/48/000000/analytics.png) Analytics | Strong use of Analytics for measuring and optimizing traffic. |
+| ![](https://img.icons8.com/color/48/000000/console.png) Search Console  | Tracking, analyzing, and enhancing SEO and web presence. |
+| ![](https://img.icons8.com/color/48/000000/google-meet.png) Meet | Effective tool for remote meetings and smooth workflow communication. |
+| _Google services empowering projects with collaboration, analysis, and communication._ |
 
 ---
 
 ### ⚙️ CMSs 
 | CMS suite                     | Description                                            |
-|--------------------------------------------|-------------------------------------------------------|
-| ![](https://img.icons8.com/color/48/000000/wordpress.png) WordPress | Suitable to make websites, ecommerce, blogs develop |
-| ![](https://img.icons8.com/color/48/000000/drupal.png) Drupal  | Robust and improved solution for a range of web needs. |
-| ![](https://img.icons8.com/color/48/000000/joomla.png)  Joomla      | Powerful and highly extensible CMS.         |
-| ![](https://img.icons8.com/color/48/000000/ghost.png) Ghost      | Nice for blogs with a special touch.              |
-| _That I'll love to have the opportunity to work with; (tell me about it)._ |
+|--------------------------------|--------------------------------------------------------|
+| ![](https://img.icons8.com/color/48/000000/wordpress.png) WordPress | Extensive experience in building websites, ecommerce, and blogs with WordPress themes and plugins. |
+| ![](https://img.icons8.com/color/48/000000/drupal.png) Drupal  | Robust CMS providing flexible content architecture and enterprise solutions. |
+| ![](https://img.icons8.com/color/48/000000/joomla.png)  Joomla      | Powerful and highly extensible CMS for dynamic content-driven sites. |
+| ![](https://img.icons8.com/color/48/000000/ghost.png) Ghost      | Elegant CMS optimized for modern blogs and publishing workflows. |
+| _CMS solutions I’m keen to work with for diverse and scalable web projects._ |
 
 ---
 
 ### ⚙️ CMSs for ecommerce
 | Ecommerce Provider                     | Description                                            |
-|--------------------------------------------|-------------------------------------------------------|
-| ![](https://img.icons8.com/color/48/000000/shopify.png) Shopify | Maybe best eshop with big customizing choices. |
-| ![](https://img.icons8.com/color/48/000000/woocommerce.png) Woocommerce  | Adaptative handle ecommerce solution.       |
-| _With integrating experience for webshops._ |
+|----------------------------------------|--------------------------------------------------------|
+| ![](https://img.icons8.com/color/48/000000/shopify.png) Shopify | Versatile ecommerce platform with strong customization and app ecosystem. |
+| ![](https://img.icons8.com/color/48/000000/woocommerce.png) Woocommerce  | Adaptive WordPress plugin for seamless online store integration. |
+| _Experience integrating ecommerce solutions for functional webshops._ |
 
 ---
 
