@@ -4,7 +4,7 @@
 
 --- 
 
-##**1️⃣ MERN Stack:** MongoDB + Express.js + React.js + Node.js 
+**1️⃣ MERN Stack:** MongoDB + Express.js + React.js + Node.js 
 |-----------------------------------------------------------------------------------|
 | For web / app develop that bring these techs for building robust systems. Improved security, scalability, performance, simplifies development and deployment. |
 | ![](https://img.icons8.com/color/48/000000/mongodb.png) **MongoDB:** A Not Only relational database management system. |
@@ -15,7 +15,7 @@
 
 --- 
 
-##**2️⃣ JAM Stack:** JS + API + MD 
+**2️⃣ JAM Stack:** JS + API + MD 
 |-----------------------------------------------------------------------------------|
 | JAM Stack develop architecture that I work mostly for custom deploys projects. |
 | ![](https://img.icons8.com/color/48/000000/javascript.png) **JavaScript:** Used for frontend interactivity. |
@@ -25,7 +25,7 @@
 
 --- 
 
-##**3️⃣ WordPress:** cPanel + PHP + Apache + MySQL
+**3️⃣ WordPress:** cPanel + PHP + Apache + MySQL
 |-----------------------------------------------------------------------------------|
 | WordPress is suitable to make websites, blogs, and ecommerce develop using top performance scripts, addons and plugins. |
 | ![](https://img.icons8.com/color/48/000000/wordpress.png) *WordPress* is widely used impacting the web content worldwide. |
