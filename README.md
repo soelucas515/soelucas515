@@ -1,10 +1,10 @@
 # 👋 Hello! Welcome to Lucas Soe's Tool Set Showcase
-| ⚙️ 𝕄𝔼ℝℕ stack + 𝕁𝔸𝕄 stack programming plus additional tecjnologies |
+| 𝕄𝔼ℝℕ stack + ⚙️ 𝕁𝔸𝕄 stack programming plus additional technologies and methodologies in modern web development. |
 |------------------------------------------------------------------------------------------------------------------------|
 
 --- 
 
-**1️⃣ MERN Stack:** MongoDB + Express.js + React.js + Node.js 
+**1️⃣ MERN Stack:** MongoDB cloud database + Express.js server-side framework + React.js library + Node.js development environment 
 |-----------------------------------------------------------------------------------|
 | For web / app develop that bring these techs for building robust systems. Improved security, scalability, performance, simplifies development and deployment. |
 | ![](https://img.icons8.com/color/48/000000/mongodb.png) **MongoDB:** A Not Only relational database management system. |
@@ -152,7 +152,5 @@
 ---
 ---
 
-##### 🤝 Let's Connect!
-Contact me to working together [working together](https://wa.me/573157742332?text=Hello,%20I%20came%20from%20your%20GitHub%20repository) or just to say hi at [hello](mailto:hello@concultura.net). Feel free to reach me out.
-
----
+**🤝 Let's Connect! Contact my team or directly and feel free to reach me out to [working together](https://wa.me/573157742332?text=Hello,%20I%20came%20from%20your%20GitHub%20repository) or just to say [hello](mailto:hello@concultura.net).** 
+|-----------------------------------------------------------------------------------|
