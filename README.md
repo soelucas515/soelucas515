@@ -1,11 +1,12 @@
-# 👋 Hello! Welcome to Lucas Soe's Tool Set Showcase 
-| ⚙️ 𝕄𝔼ℝℕ stack + 𝕁𝔸𝕄 stack + 𝕎𝕆ℝ𝔻ℙℝ𝔼𝕊𝕊 develop |
+# 👋 Hello! Welcome to Lucas Soe's Tool Set Showcase
+| ⚙️ 𝕄𝔼ℝℕ stack + 𝕁𝔸𝕄 stack programming plus 𝕎𝕆ℝ𝔻ℙℝ𝔼𝕊𝕊 develop |
 |------------------------------------------------------------------------------------------------------------------------|
 
 --- 
 
-| ##**1️⃣ MERN Stack:** MongoDB + Express.js + React.js + Node.js     | 
-| MERN Stack for web / app develop that bring these techs for building robust systems. offers improved security, scalability, performance, simplifies development and deployment. |
+##**1️⃣ MERN Stack:** MongoDB + Express.js + React.js + Node.js 
+|-----------------------------------------------------------------------------------|
+| For web / app develop that bring these techs for building robust systems. Improved security, scalability, performance, simplifies development and deployment. |
 | ![](https://img.icons8.com/color/48/000000/mongodb.png) **MongoDB:** A Not Only relational database management system. |
 | ![](https://img.icons8.com/color/48/000000/express.png) **Express.js:** Node.js framework for server-side building. |
 | ![](https://img.icons8.com/color/48/000000/react-native.png) **React.js:** JavaScript library for build user interfaces. |
@@ -14,7 +15,8 @@
 
 --- 
 
-| ##**2️⃣ JAM Stack:** JS + API + MD | 
+##**2️⃣ JAM Stack:** JS + API + MD 
+|-----------------------------------------------------------------------------------|
 | JAM Stack develop architecture that I work mostly for custom deploys projects. |
 | ![](https://img.icons8.com/color/48/000000/javascript.png) **JavaScript:** Used for frontend interactivity. |
 | ![](https://img.icons8.com/color/48/000000/api-settings.png) **APIs:** Services or microservices with data requests. |
@@ -23,8 +25,9 @@
 
 --- 
 
-| ##**3️⃣ WordPress:** cPanel + PHP + Apache + MySQL  |
-| _WordPress is suitable to make websites, blogs, and ecommerce develop using top performance scripts, addons and plugins._ |
+##**3️⃣ WordPress:** cPanel + PHP + Apache + MySQL
+|-----------------------------------------------------------------------------------|
+| WordPress is suitable to make websites, blogs, and ecommerce develop using top performance scripts, addons and plugins. |
 | ![](https://img.icons8.com/color/48/000000/wordpress.png) *WordPress* is widely used impacting the web content worldwide. |
 | ![](https://img.icons8.com/color/48/000000/php.png) PHP *PHP:* Core for MySQL databases with WordPress. |
 | ![](https://img.icons8.com/color/48/000000/control-panel.png) cPanel in all version |
