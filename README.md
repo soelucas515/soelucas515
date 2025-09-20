@@ -61,7 +61,7 @@
 
 ---
 
-### ⚙️ JS + PY and other languages frontend frameworks
+### ⚙️ JS + PY language frontend frameworks
 | Framework                        | Description                                            |
 |--------------------------------------------|-------------------------------------------------------|
 | ![](https://img.icons8.com/?size=38&id=52KTjS91JkM9&format=png) Jekyll | Experience in creating websites using Jekyll. |
@@ -96,14 +96,17 @@
 
 ---
 
-### ⚙️ Backend + Framework Set Tool
-| Backend Type                     | Description                                            |
-|--------------------------------------------|-------------------------------------------------------|
-| ![](https://img.icons8.com/color/48/000000/nodejs.png) Node | As back-end JS runtime environment.         |
-| ![](https://img.icons8.com/color/48/000000/github.png) GitHub | Repository hub for deploy, collab and admin code.  |
-| ![](https://img.icons8.com/color/48/000000/git.png) Git | Control version for tracking.         |
-| ![](https://img.icons8.com/color/48/000000/express.png) Express.JS      | Powerful tool to RESTful APIs with Node.js.  |
-| _Proficient to Build Apps, Webs, APIs and more utils._ |
+### ⚙️ Backend environment development tools and modern deployment
+
+| Tool                                                                 | Description                                        |
+|----------------------------------------------------------------------|----------------------------------------------------|
+| ![](https://img.icons8.com/color/48/000000/git.png) **Git**          | Distributed version control system for tracking changes. |
+| ![](https://img.icons8.com/color/48/000000/github.png) **GitHub**    | Repository hosting, collaboration, and code management. |
+| ![](https://img.icons8.com/color/48/000000/vercel.png) **Vercel**    | Cloud platform for deploying frontend and backend apps. |
+| ![](https://img.icons8.com/color/48/000000/cloud.png) **Netlify**    | Cloud hosting for static sites and serverless functions. |
+| ![](https://img.icons8.com/color/48/000000/github.png) **GitHub Pages** | Free hosting service for static websites directly from repositories. |
+_Proficient in building and deploying apps, websites, APIs, and related utilities._
+
 
 ---
 
