@@ -1,5 +1,5 @@
 # 👋 Hello! Welcome to Lucas Soe's Tool Set Showcase
-| ⚙️ 𝕄𝔼ℝℕ stack + 𝕁𝔸𝕄 stack programming plus 𝕎𝕆ℝ𝔻ℙℝ𝔼𝕊𝕊 develop |
+| ⚙️ 𝕄𝔼ℝℕ stack + 𝕁𝔸𝕄 stack programming plus additional tecjnologies |
 |------------------------------------------------------------------------------------------------------------------------|
 
 --- 
@@ -25,26 +25,25 @@
 
 --- 
 
-**3️⃣ WordPress:** cPanel + PHP + Apache + MySQL
-|-----------------------------------------------------------------------------------|
-| WordPress is suitable to make websites, blogs, and ecommerce develop using top performance scripts, addons and plugins. |
-| ![](https://img.icons8.com/color/48/000000/wordpress.png) *WordPress* is widely used impacting the web content worldwide. |
-| ![](https://img.icons8.com/color/48/000000/php.png) PHP *PHP:* Core for MySQL databases with WordPress. |
-| ![](https://img.icons8.com/color/48/000000/control-panel.png) cPanel in all version |
-| _Offers up performance and simplifies deployment development processes. Suitable for certain types of websites._ |
-
---- 
-
 ### ⚙️ Programming Languages
+| Language      | Description                                                                 |
+|---------------|-----------------------------------------------------------------------------|
+| ![](https://img.icons8.com/color/48/000000/javascript.png) JS | Skilled in JavaScript for client-side interactions, DOM manipulation, and framework integration. |
+| ![](https://img.icons8.com/color/48/000000/python.png) Python | Ability to work with scripts and environments for automation, data handling, and AI workflows. |
+| ![](https://img.icons8.com/color/48/000000/php.png) PHP | Experience with PHP as the backbone of WordPress development, including themes, plugins, and database interactions with MySQL. |
+| _To handle according to project purposes. Versatile use of languages depending on scope and technical requirements._ | 
+
+---
+
+### ⚙️ Style language
 | Language      | Description                                                        |
 |---------------|--------------------------------------------------------------------|
-| ![](https://img.icons8.com/color/48/000000/javascript.png) JS | Skilled in JavaScript for client-side framework design. |
-| ![](https://img.icons8.com/color/48/000000/python.png) Python    | Hability to work around PY scripts and environments. |
-| _To handle according to project purposes_ |
+| ![](https://img.icons8.com/color/48/000000/css3.png) CSS       | Capability in CSS for styling and layout design.     |
+| _Becomes responsive, good looking and functional._ |
 
 --- 
 
-### ⚙️ Markup Languages
+### ⚙️ Markup languages
 | Language      | Description                                                        |
 |---------------|--------------------------------------------------------------------|
 | ![](https://img.icons8.com/color/48/000000/markdown.png) MD   | Advance capability for build documents and blogging. |
@@ -53,29 +52,33 @@
 
 ---
 
-### ⚙️ Style Languages
-| Language      | Description                                                        |
-|---------------|--------------------------------------------------------------------|
-| ![](https://img.icons8.com/color/48/000000/css3.png) CSS       | Capability in CSS for styling and layout design.     |
-| _Becomes responsive, good looking and functional._ |
+### ⚙️ Backend environment development tools and modern deployment
+| Tool                                                                 | Description                                        |
+|----------------------------------------------------------------------|----------------------------------------------------|
+| ![](https://img.icons8.com/color/48/000000/git.png) **Git**          | Distributed version control system for tracking changes. |
+| ![](https://img.icons8.com/color/48/000000/github.png) **GitHub**    | Repository hosting, collaboration, and code management. |
+| ![](https://img.icons8.com/color/48/000000/vercel.png) **Vercel**    | Cloud platform for deploying frontend and backend apps. |
+| ![](https://img.icons8.com/color/48/000000/cloud.png) **Netlify**    | Cloud hosting for static sites and serverless functions. |
+| ![](https://img.icons8.com/color/48/000000/github.png) **GitHub Pages** | Free hosting service for static websites directly from repositories. |
+| _Proficient in building and deploying apps, websites, APIs, and related utilities._ | 
 
 ---
 
-### ⚙️ JS + PY language frontend frameworks
+### ⚙️ JS + PY + PHP language frontend frameworks
 | Framework                        | Description                                            |
-|--------------------------------------------|-------------------------------------------------------|
-| ![](https://img.icons8.com/?size=38&id=52KTjS91JkM9&format=png) Jekyll | Experience in creating websites using Jekyll. |
+|----------------------------------|--------------------------------------------------------|
 | ![](https://img.icons8.com/color/48/000000/vite.png) Vite        | Proficient in using Vite for frontend development. |
 | ![](https://img.icons8.com/color/48/000000/gatsbyjs.png) Gatsby      | Competent in building fast websites with Gatsby. |
-| ![](https://i.imgur.com/JYDIBlq.png) Astro                  | Proficient with Astro for efficient web devs with Astro.  |
+| ![](https://i.imgur.com/JYDIBlq.png) Astro                  | Proficient with Astro for efficient web devs with Astro. |
 | ![](https://i.imgur.com/44EVa6K.png) Hugo                    | Skilled in building static websites with Hugo and Go. |
-| ![](https://img.icons8.com/color/48/000000/flask.png) Flask  |  Flask developer crafting Python web apps as a learner. |
+| ![](https://img.icons8.com/color/48/000000/flask.png) Flask  | Flask developer crafting Python web apps as a learner. |
+| ![](https://img.icons8.com/color/48/000000/laravel.png) Laravel | Strong grasp of Laravel for building robust PHP web applications and APIs. |
 | _To build fastly new projects with robust setting with modern web design._ |
 
 --- 
 
-### ⚙️ CSS Frameworks
-| CSS Framework                       | Description                                            |
+### ⚙️ CSS frameworks
+| CSS framework                       | Description                                            |
 |--------------------------------------------|-------------------------------------------------------|
 | ![](https://img.icons8.com/color/48/000000/bootstrap.png) Bootstrap | Skillful in utilizing Bootstrap for web design.   |
 | ![](https://img.icons8.com/color/48/000000/tailwindcss.png) Tailwind CSS   | Familiar use of Tailwind CSS framework.  |
@@ -83,7 +86,7 @@
 
 --- 
 
-### ⚙️ JavaScript Libraries
+### ⚙️ JavaScript libraries
 | JavaScript Library                   | Description                                            |
 |--------------------------------------------|-------------------------------------------------------|
 | ![](https://img.icons8.com/color/48/000000/react-native.png) ReactJS | Proficient in using ReactJS building interfaces. |
@@ -96,41 +99,19 @@
 
 ---
 
-### ⚙️ Backend environment development tools and modern deployment
-
-| Tool                                                                 | Description                                        |
-|----------------------------------------------------------------------|----------------------------------------------------|
-| ![](https://img.icons8.com/color/48/000000/git.png) **Git**          | Distributed version control system for tracking changes. |
-| ![](https://img.icons8.com/color/48/000000/github.png) **GitHub**    | Repository hosting, collaboration, and code management. |
-| ![](https://img.icons8.com/color/48/000000/vercel.png) **Vercel**    | Cloud platform for deploying frontend and backend apps. |
-| ![](https://img.icons8.com/color/48/000000/cloud.png) **Netlify**    | Cloud hosting for static sites and serverless functions. |
-| ![](https://img.icons8.com/color/48/000000/github.png) **GitHub Pages** | Free hosting service for static websites directly from repositories. |
-_Proficient in building and deploying apps, websites, APIs, and related utilities._
-
-
----
-
-### ⚙️ Administrative and Productivity Kit Tool
+### ⚙️ Administrative and productivity kit tool
 | Tool      | Description                                                          |
 |-----------|----------------------------------------------------------------------|
 | ![](https://img.icons8.com/color/48/000000/chatgpt.png) Chat GPT  | Prompt engineering for build code, pieces, ideas.  |
 | ![](https://img.icons8.com/color/48/000000/notion.png) Notion  | For task management, documentation, and collabs. |
 | ![](https://img.icons8.com/color/48/000000/figma.png) Figma  | Design network platform mixing design, graphic and web. |
 | ![](https://img.icons8.com/color/48/000000/trello.png) Trello | Card-based project management that simplifies notes. |
+| ![](https://img.icons8.com/color/48/000000/control-panel.png) cPanel | CMS admin panels in all versions including Hostinger hPage. |
 | _Set Tools To Push Develop, Administrate, Create, Documentate, Collaborate and more._ |
 
 ---
 
-### ⚙️ ![](https://img.icons8.com/color/48/000000/microsoft.png) Microsoft Suite
-| Microsoft -aaS                     | Description                                            |
-|--------------------------------------------|-------------------------------------------------------|
-| ![](https://img.icons8.com/color/48/000000/microsoft-teams.png) Microsoft Teams | For suitable remote workflow collab.  |
-| ![](https://img.icons8.com/color/48/000000/azure.png) Azure | For clouding and integrations eith cloud services.  |
-| _Microsoft Universe of Services to Empower Any project Compatible With That Technologies._ |
-
----
-
-### ⚙️ ![](https://img.icons8.com/color/48/000000/google.png) Google Workspace
+### ⚙️ Google Workspace
 | Google -aaS                     | Description                                            |
 |--------------------------------------------|-------------------------------------------------------|
 | ![](https://img.icons8.com/color/48/000000/google-drive.png) Drive | Integrates for storage and collabs management. |
@@ -145,6 +126,7 @@ _Proficient in building and deploying apps, websites, APIs, and related utilitie
 ### ⚙️ CMSs 
 | CMS suite                     | Description                                            |
 |--------------------------------------------|-------------------------------------------------------|
+| ![](https://img.icons8.com/color/48/000000/wordpress.png) WordPress | Suitable to make websites, ecommerce, blogs develop |
 | ![](https://img.icons8.com/color/48/000000/drupal.png) Drupal  | Robust and improved solution for a range of web needs. |
 | ![](https://img.icons8.com/color/48/000000/joomla.png)  Joomla      | Powerful and highly extensible CMS.         |
 | ![](https://img.icons8.com/color/48/000000/ghost.png) Ghost      | Nice for blogs with a special touch.              |
@@ -152,12 +134,14 @@ _Proficient in building and deploying apps, websites, APIs, and related utilitie
 
 ---
 
-### ⚙️ Ecommerce CMSs
+### ⚙️ CMSs for ecommerce
 | Ecommerce Provider                     | Description                                            |
 |--------------------------------------------|-------------------------------------------------------|
 | ![](https://img.icons8.com/color/48/000000/shopify.png) Shopify | Maybe best eshop with big customizing choices. |
 | ![](https://img.icons8.com/color/48/000000/woocommerce.png) Woocommerce  | Adaptative handle ecommerce solution.       |
-| _With Initial Integrating Experience._ |
+| _With integrating experience for webshops._ |
+
+---
 
 ---
 ---
@@ -170,7 +154,6 @@ _Proficient in building and deploying apps, websites, APIs, and related utilitie
 ---
 
 ##### 🤝 Let's Connect!
-
 Contact me to working together [working together](https://wa.me/573157742332?text=Hello,%20I%20came%20from%20your%20GitHub%20repository) or just to say hi at [hello](mailto:hello@concultura.net). Feel free to reach me out.
 
 ---
