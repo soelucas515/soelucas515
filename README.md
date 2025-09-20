@@ -145,17 +145,13 @@
 ---
 ---
 ---
-> > > Frontend web developer with backend basis. I'd have been work building websites with JS framework builders like Jekyll or Eleventy; CSS frameworks like Tailwind CSS and Bootstrap. Besides other languages based frameworks like Astro with Astro, Hugo with Go. For my code work I usually use VSCode as editor, WSL2 as runtime environment, Git as version control and GitHub as repository hub, coworking. · <a> [Portfolio](https://lucfreelance.vercel.app)💼
+> > > Full Stack web developer with backend heavy. I'd have been work building websites with JS framework builders such as Jekyll or Eleventy; CSS frameworks such as Tailwind CSS and Bootstrap. Besides handle of other languages frameworks based like Astro (Astro), Hugo (Go). For my code work I usually use VSCode as editor with Node.js as runtime environment, under WSL2 core. Git as version control and GitHub as repository hub and collaborative. · <a> [Portfolio](https://lucfreelance.vercel.app)💼
 ---
 ---
 ---
-
-##### 🙏 Thank You!
-
-Thanks for getting this far, and... A special thanks to everyone who has supported and contributed to my journey so far. Without them, none of this code would be possible!
 
 ##### 🤝 Let's Connect
 
-If you're interested in [working together](https://wa.me/573157742332?text=Hello,%20I%20came%20from%20your%20GitHub%20repository) or just want to say [hello](mailto:lucfreelance@gmail.com), feel free to reach out. I look forward to collaborating on incredible projects with you!
+If you're interested in [working together](https://wa.me/573157742332?text=Hello,%20I%20came%20from%20your%20GitHub%20repository) or just want to say [hello](mailto:hello@concultura.net), feel free to reach me out. I'm always looking forward to collaborating on incredible projects with developers around the world!
 
 ---
