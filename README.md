@@ -1,5 +1,5 @@
 # 👋 Hello! Welcome to Lucas Soe's Tool Set Showcase
-| 𝕄𝔼ℝℕ stack + ⚙️ 𝕁𝔸𝕄 stack programming plus additional technologies and methodologies in modern web development. |
+| ⚙️ 𝕄𝔼ℝℕ stack + ⚙️ 𝕁𝔸𝕄 stack programming plus additional technologies and methodologies in modern web development. |
 |------------------------------------------------------------------------------------------------------------------------|
 
 --- 
