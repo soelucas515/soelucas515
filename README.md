@@ -71,7 +71,7 @@
 | ![](https://img.icons8.com/color/48/000000/vite.png) Vite        | Proficient in using Vite for fast frontend development and modern bundling. |
 | ![](https://img.icons8.com/color/48/000000/gatsbyjs.png) Gatsby      | Competent in building optimized websites with Gatsby and React. |
 | ![](https://i.imgur.com/JYDIBlq.png) Astro                  | Skilled with Astro for efficient, component-driven, content-heavy websites. |
-| ![](https://i.imgur.com/44EVa6K.png) Hugo                    | Capable in creating lightweight static websites with Hugo and Go templates. |
+| ![](https://img.icons8.com/color/48/000000/go.png) Hugo     | Capable in creating lightweight static websites with Hugo and Go templates. |
 | ![](https://img.icons8.com/color/48/000000/flask.png) Flask  | Learning-oriented experience with Flask for Python-based web apps. |
 | ![](https://img.icons8.com/color/48/000000/laravel.png) Laravel | Strong grasp of Laravel for building scalable PHP applications and REST APIs. |
 | _To build new projects quickly with robust settings and modern web design practices._ |
@@ -94,7 +94,7 @@
 | ![](https://img.icons8.com/ios/50/000000/confetti.png) canvas-confetti | Experience adding playful and interactive confetti animations. |
 | ![](https://img.icons8.com/color/48/000000/styled-components.png) Styled Components | Skilled in styled-components for inline and scoped CSS in React apps. |
 | ![](https://img.icons8.com/color/48/000000/redux.png) Redux | Competent in Redux for predictable state management across applications. |
-| ![](https://img.icons8.com/color/48/000000/javascript.png) esLint | Proficient in setting up ESLint for cleaner and more consistent codebases. |
+| ![](https://img.icons8.com/color/48/000000/eslint.png) esLint | Proficient in setting up ESLint for cleaner and more consistent codebases. |
 | ![](https://img.icons8.com/color/48/000000/helmet.png) Helmet | Knowledgeable in Helmet for managing metadata and tracking codes in HTML heads. |
 | _To enhance display, usability, and functionality in JavaScript projects._ |
 
