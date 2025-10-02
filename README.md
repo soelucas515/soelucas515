@@ -26,7 +26,7 @@
 
 --- 
 
-### ⚙️ Programming Languages
+### ⚙️ Programming languages
 | Language      | Description                                                                 |
 |---------------|-----------------------------------------------------------------------------|
 | ![](https://img.icons8.com/color/48/000000/javascript.png) JS | Skilled in JavaScript for client-side interactions, DOM manipulation, and framework integration. |
@@ -92,7 +92,7 @@
 |--------------------------------------------|-------------------------------------------------------|
 | ![](https://img.icons8.com/color/48/000000/react-native.png) ReactJS | Proficient in ReactJS for building dynamic and reusable user interfaces. |
 | ![](https://img.icons8.com/ios/50/000000/confetti.png) canvas-confetti | Experience adding playful and interactive confetti animations. |
-| ![](https://img.icons8.com/color/48/000000/css3.png) Styled Components | Skilled in styled-components for inline and scoped CSS in React apps. |
+| ![](https://img.icons8.com/color/48/000000/styled-components.png) Styled Components | Skilled in styled-components for inline and scoped CSS in React apps. |
 | ![](https://img.icons8.com/color/48/000000/redux.png) Redux | Competent in Redux for predictable state management across applications. |
 | ![](https://img.icons8.com/color/48/000000/javascript.png) esLint | Proficient in setting up ESLint for cleaner and more consistent codebases. |
 | ![](https://img.icons8.com/color/48/000000/helmet.png) Helmet | Knowledgeable in Helmet for managing metadata and tracking codes in HTML heads. |
@@ -113,7 +113,7 @@
 ---
 
 ### ⚙️ Google Workspace
-| Google -aaS                     | Description                                            |
+| Google tools                    | Description                                            |
 |---------------------------------|--------------------------------------------------------|
 | ![](https://img.icons8.com/color/48/000000/google-drive.png) Drive | Reliable storage solution with collaboration and sharing features. |
 | ![](https://img.icons8.com/color/48/000000/gmail.png) Gmail | Efficient email communication with integrations across Google services. |
